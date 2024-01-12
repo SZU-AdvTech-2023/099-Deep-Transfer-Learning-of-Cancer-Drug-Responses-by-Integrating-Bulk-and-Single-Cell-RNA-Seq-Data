@@ -1,0 +1,9 @@
+@article{REPO099,
+    author = "Chen, Junyi and Wang, Xiaoying and Ma, Anjun and Wang, Qi-En and Liu, Bingqiang and Li, Lang and Xu, Dong and Ma, Qin",
+    journal = "Nature Communications",
+    number = "1",
+    pages = "6494",
+    title = "{Deep Transfer Learning of Cancer Drug Responses by Integrating Bulk and Single-Cell RNA-Seq Data}",
+    volume = "13",
+    year = "2022"
+}
